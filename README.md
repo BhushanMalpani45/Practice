@@ -1,2 +1,4 @@
 # Practice
-This is for learning Git and github.
+This is for learning Git and github 
+# Name
+Bhushan
